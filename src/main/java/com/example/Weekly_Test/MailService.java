@@ -13,7 +13,7 @@ public class MailService {
 
     private final String host = "smtp.gmail.com";
     private final String sender = "nitu8860@gmail.com"; // replace with your email address
-    private final String password = "sxylgyveypwdqerm"; // replace with your email password
+    private final String password = " "; // replace with your email password
     private final String receiver = "knitu6238@gmail.com"; // replace with the recipient's email address
 
     private final Properties properties = new Properties();
